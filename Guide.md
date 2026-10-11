@@ -169,3 +169,6 @@ Because packet sniffing interacts directly with your network card, administrativ
 1. **`RuntimeError: winpcap is not installed` (Windows)**
 
    * **Cause:** Scapy cannot find the required packet capture driver
+
+ ## 💡 Live Testing Tip: 
+ **While your script is running, open your web browser and visit a few websites. Look back at your terminal or output window to watch the live packet traffic update instantly!**
